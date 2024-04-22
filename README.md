@@ -1,8 +1,7 @@
 # Job-Recommender-System
 Skill-Based Job Recommendation: A Machine Learning Approach on LinkedIn Job Listing 
 ### STEPS
--DATA SET:1.3M Linkedin Jobs & Skills (2024)
-       https://www.kaggle.com/datasets/msambare/fer2013](https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024)
+-DATA SET:1.3M Linkedin Jobs & Skills (2024) :https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024
  
 Repository contains below 
 ----------------------
