@@ -18,14 +18,14 @@ All Jupyter notebooks were executed within the Google Colab environment.
 1. Data_Cleaning_v2.ipynb
 2. Data_splitting.ipynb
 3. EDA.ipynb
-4. Job Recommender.ipynb
-5. JobRecommender PBI.pbix  (Power BI dashboard)
-6. Others (output/input CSV files and xls files )
+4. JobRecommender PBI.pbix  (Power BI dashboard)
+5. Others (output/input CSV files and xls files )
+6. Recommender System Folder
 
 
 ### Contributors
 1. GOH DAI YONG ADISON 
 2. JIAO HUIMING
 3. NISIN SAJ
-4.RUSSELL QUAH LIANG 
+4. RUSSELL QUAH LIANG 
 
