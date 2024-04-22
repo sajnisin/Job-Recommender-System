@@ -5,9 +5,13 @@ Skill-Based Job Recommendation: A Machine Learning Approach on LinkedIn Job List
  
 Repository contains below 
 ----------------------
-1. EDA
-2. Data cleaning and preprocessing
-3. Recommender System
+All Jupyter notebooks were executed within the Google Colab environment, necessitating an update of file paths to reflect their original location
+ 
+ 1.Data_Cleaning_v2.ipynb
+2.Data_splitting.ipynb
+3.EDA.ipynb
+4. Job Recommender.ipynb
+5. Others (output/input CSV files and xls files )
 
 
 ### Contributors
