@@ -19,7 +19,8 @@ All Jupyter notebooks were executed within the Google Colab environment.
 2. Data_splitting.ipynb
 3. EDA.ipynb
 4. Job Recommender.ipynb
-5. Others (output/input CSV files and xls files )
+5. JobRecommender PBI.pbix  (Power BI dashboard)
+6. Others (output/input CSV files and xls files )
 
 
 ### Contributors
