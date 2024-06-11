@@ -1,5 +1,7 @@
 # Content-based Job Recommender System with PySpark, SQL, TF-IDF & Cosine Similarity
 
+A similar annotated copy of the python notebook describing the recommender system was also uploaded on [Kaggle](https://www.kaggle.com/code/adisongoh/job-recommender-with-pyspark-cosine-similarity/notebook).
+
 ## Description of Files
 
 - `Job_Recommender_Spark_Codes.ipynb`: Notebook used to build & run the job recommender system, including data pre-processing, item profile creation (job listings), user profile creation (job seeker test cases), TF-IDF & matching by cosine similarity
@@ -8,7 +10,7 @@
 - `test_cases.csv`: Inputs from job seekers (that will form the user profile)
 - `output_job_skills_match.csv`: Output of the recommendation algorithm
 
-## Code Execution:
+## Code Execution
 
 The codes were executed in Google Colab as a Python Notebook (Job_Recommender_Spark_Codes.ipynb).
 
@@ -20,7 +22,7 @@ Key Environments:
 - nltk version 3.8.1
 - numpy version 1.25.2
 
-The notebook was then exported to Job_Recommender_Spark_Codes.py
+The notebook was then exported to `Job_Recommender_Spark_Codes.py`
 
-Command execution to run .py file:
-!python Job_Recommender_Spark_Codes.py linkedin_job_posts_skills.csv stopwords.txt test_cases.csv output_job_skills_match.csv
+Command execution to run `.py` file:<br>
+`!python Job_Recommender_Spark_Codes.py linkedin_job_posts_skills.csv stopwords.txt test_cases.csv output_job_skills_match.csv`
