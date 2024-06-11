@@ -1,5 +1,7 @@
 # Content-based Job Recommender System with PySpark, SQL, TF-IDF & Cosine Similarity
 
+## Description of Files
+
 - `Job_Recommender_Spark_Codes.ipynb`: Notebook used to build & run the job recommender system, including data pre-processing, item profile creation (job listings), user profile creation (job seeker test cases), TF-IDF & matching by cosine similarity
 - `Job_Recommender_Spark_Codes.py`: Exported from the above jupyter notebook
 - `stopwords.txt`: Stopwords that are filtered out
